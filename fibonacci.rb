@@ -27,13 +27,3 @@ def fibs_rec(num)
   end
   output
 end
-
-puts fibs_rec(1)
-puts '.....'
-puts fibs_rec(2)
-puts '.....'
-puts fibs_rec(3)
-puts '.....'
-
-puts fibs_rec(20)
-puts '.....'
