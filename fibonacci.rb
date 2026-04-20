@@ -1,7 +1,6 @@
 def fibs(num)
   output = [0,1]
   if num == 2
-    
   elsif num == 1 
     output.pop
   else 
@@ -9,7 +8,6 @@ def fibs(num)
     counter.times do 
       output << output[-2] + output[-1]
     end
-
   end
   output
 end
